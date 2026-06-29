@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Denys 👋
 
-<!--
-**DenysFizer/DenysFizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ Backend engineer who spends most of his time in **Go** and **Rust**, with a soft spot for **Machine Learning**.
 
-Here are some ideas to get you started:
+What I really enjoy is the part of the job most people find tedious — making things fast, predictable, and hard to break. 🚀 I like reasoning about how systems behave under load, why one approach scales and another quietly falls apart, and how to keep code readable six months after I wrote it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 The ML side started as curiosity and turned into something I genuinely care about: not just training a model, but getting it to actually work outside a notebook.
+
+💡 I learn best by building. A lot of what's here started as *"I wonder if I can..."* and never quite stopped.
+
+---
+
+### 🛠️ Mostly working with
+
+`Go` · `Rust` · `Python` · `PyTorch` · `gRPC` · `PostgreSQL` · `Docker`
